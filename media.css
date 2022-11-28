@@ -35,6 +35,11 @@
         gap: 12px;
     }
 
+    .hero_container .nav_header .navbar .navbar_links ul li a{
+        font-size: 15px;
+        font-weight: 600;
+    }
+
     .hero_container .nav_header .navbar .numBtn_wrapper{
         /* border: 1px solid black; */
         width: 70%;
@@ -91,7 +96,8 @@
     }
 
     .hero_container .nav_header .navbar .navbar_links ul li a{
-        font-size: 12px;
+        font-size: 15px;
+        font-weight: 600;
     }
 
     .hero_container .nav_header .navbar .numBtn_wrapper{
@@ -105,12 +111,13 @@
     }
 
     .hero_container .nav_header .navbar .numBtn_wrapper a{
-        font-size: 12px;
+        font-size: 14px;
         width: 82%;
     }
 
     .hero_container .nav_header .navbar .numBtn_wrapper p{
-        font-size: 12px;
+        font-size: 15px;
+        font-weight: 600;
     }
 
     .hero_container .nav_header .navbar.active{
@@ -154,7 +161,8 @@
     }
 
     .hero_container .nav_header .navbar .navbar_links ul li a{
-        font-size: 12px;
+        font-size: 15px;
+        font-weight: 600;
     }
 
     .hero_container .nav_header .navbar .numBtn_wrapper{
@@ -168,12 +176,13 @@
     }
 
     .hero_container .nav_header .navbar .numBtn_wrapper a{
-        font-size: 12px;
+        font-size: 14px;
         width: 82%;
     }
 
     .hero_container .nav_header .navbar .numBtn_wrapper p{
-        font-size: 12px;
+        font-size: 15px;
+        font-weight: 600;
     }
 
     .hero_container .nav_header .navbar.active{
