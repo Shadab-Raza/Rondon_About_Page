@@ -227,7 +227,7 @@
     }
 }
 
-@media (max-height : 806px) {
+@media (max-height : 710px) {
     .hero_article{
         height: 60vh;
     }
@@ -291,7 +291,7 @@
     }  
 }
 
-@media (max-height : 806px){
+@media (max-height : 710px){
     .intro_container{
         width: 100%;
         height: 125vh !important;
@@ -377,7 +377,7 @@
     }
 }
 
-@media (max-height : 806px){
+@media (max-height : 710px){
     .firstAboutUs_container{
         /* border: 1px solid black; */
         width: 100%;
@@ -454,7 +454,7 @@
     }
 }
 
-@media (max-height : 806px){
+@media (max-height : 710px){
     .secondAboutUs_container{
         /* border: 1px solid black; */
         width: 100%;
@@ -550,7 +550,7 @@
     }
 }
 
-@media (max-height : 806px) {
+@media (max-height : 710px) {
     .ourTeam_container{
         /* border: 1px solid black;  */
         width: 100%;
@@ -690,7 +690,7 @@
     }
 }
 
-@media (max-height : 806px){
+@media (max-height : 710px){
     .contact_container{
         /* border: 1px solid black; */
         height: 125vh;
