@@ -674,7 +674,7 @@
 
 @media (max-height: 600px){
     .contact_container{
-        border: 1px solid black;
+        /* border: 1px solid black; */
         height: 180vh;
     }
 
